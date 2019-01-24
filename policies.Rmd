@@ -10,6 +10,7 @@ output:
 
 ## Classroom Protocol
 
+* Bring your laptop to every class. 
 * Be prepared to discuss the day's topic.
 * Be kind to others. Remember that people have different backgrounds and experiences with the material. Students who learn the material faster should consider helping others (teaching is an excellent way to improve your understanding of the material).
 * If you must come in late, please do not disrupt the class. Please ensure all cell phones, pagers, and other electronic devices are set to silent.

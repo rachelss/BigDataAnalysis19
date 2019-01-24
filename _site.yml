@@ -1,7 +1,7 @@
-name: "BES 600 URI Spring 2019"
+name: "BIO/DSP 439/539 URI Spring 2019"
 output_dir: "."
 navbar:
-  title: "BES 600 URI Spring 2019"
+  title: "BIO/DSP 439/539 URI Spring 2019"
   left:
     - text: "Overview"
       href: index.html

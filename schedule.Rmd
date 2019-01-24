@@ -12,20 +12,20 @@ knitr::opts_chunk$set(echo = FALSE)
 library(kableExtra)
 ```
 
-## Meeting Schedule and Overview
+## Meeting Schedule
 
 ```{r, warning=FALSE}
-Week <- c(1:13)
-Date <- c("1/23", "1/30", "2/6", "2/13","2/20", "2/27", "3/6", "3/20",
-          "3/27", "4/3", "4/10","4/17", "4/24")
-Topic <- c("Planning", "Figures / Data viz","Slide design / posters", 
-           "Design Tools","Alexa / Infographic ideas",
-             "Giving good talks","Laura / Amy",
-             "Know your audience","Kevin / Aubree","Bonus day",
-           "Cassie / Katie","Jillian / Erin",
-             "Matias / Kristina / potluck")
+Day <- c(1:26)
+Date <- c("1/24", "1/29", "1/31", "2/5", "2/7", "2/12", "2/14", "2/19", "2/21", "2/26", "2/28",
+          "3/5", "3/7", "3/19", "3/21", "3/26",
+          "3/28", "4/2", "4/4", "4/9", "4/11", "4/16", "4/18", "4/23", "4/25", "4/30")
+Topic <- c("Setup", "Shell","Shell","Shell","Shell",
+           "Shell","HPC","Git", "Git", "Git", 
+           "Intro R","Intro R","Tidy Data","Tidy Data","R plots",
+           "R Markdown", "Databases", "Data in python", "Python", "Python", 
+           "Python", "Functions", "Functions","Classes", "Classes","Scripting")
 
-meetings <- cbind(Week, Date, Topic)
+meetings <- cbind(Day, Date, Topic)
 
 kable(meetings, "html") %>%  
   kable_styling(bootstrap_options = c("striped", "hover", "responsive"))

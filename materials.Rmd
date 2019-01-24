@@ -13,9 +13,4 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 **Day 1:**   
-[Planned activities and schedule](https://docs.google.com/document/d/1ejvs0rUF-ixUqaQmoCR4T3JgGvwPypIMFJdAJmPrIZ4/edit?usp=sharing)
-
-**Day 2: Data Viz and figures**  
-* [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/index.html)  
-* [How to pick your visualization / chart](https://www.data-to-viz.com/)  
-* [More references](https://datavizf18.classes.andrewheiss.com/reference/)
+Setup

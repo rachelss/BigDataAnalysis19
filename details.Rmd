@@ -24,26 +24,73 @@ Please note that the instructor will do her best to respond promptly between 9-5
 **Office Hours**: TBD   
 Please feel free to come by without an appointment during this time. To talk with me during other times please set up a meeting by email.
 
-**Class Days / Time**: W 2-3pm CBLS 435
+**Class Days / Time**: T/Th 2-3:15 Coastal Institute Kingston 117A
 
-**Prerequisites**: Enrolled in a BES graduate program
+**Prerequisites**: Junior standing and MTH 131 or instructor permission / Graduate Standing
 
-**Texts**:   
+#### Required texts - available free online
 
-Data Viz:  
-* [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/index.html)  
-* [How to pick your visualization / chart](https://www.data-to-viz.com/)  
-* [More references](https://datavizf18.classes.andrewheiss.com/reference/)
+[The Practice of Reproducible Research](https://www.practicereproducibleresearch.org/). Justin Kitzes, Daniel Turek, Fatma Deniz (Eds.) 2017. UC Press.
 
+[Modern Dive](http://moderndive.com/). Chester Ismay and Albert Y. Kim. 2017.
+
+[R for Data Science](http://r4ds.had.co.nz/). Hadley Wickham and Garrett Grolemund. 2016. O’Reilly Media.
+
+Data Science from Scratch. Joel Grus. 2015. O’Reilly Media. Free online via the URI library and Safari Books. Search the URI library for the title and follow the links.
+
+[A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython). Jake VanderPlas. 2016.
+
+[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook). Jake VanderPlas. 2017. O'Reilly Media. 
+
+#### Useful supplementary reads
+
+Bioinformatics Data Skills. Vince Buffalo. 2015. O'Reilly Media.
+
+Data Science at the Command Line. Jeroen Janssens. 2014. O'Reilly Media. 
+
+Doing Data Science. Rachel Schutt and Cathy O'Neill. 2013. O'Reilly Media.
+
+Big Data and Social Science: A Practical Guide to Methods and Tools. 2016. Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter, and Julia Lane, eds. CRC Press.
+
+On Being a Data Skeptic. Cathy O'Neil. 2013. O'Reilly Media.
+
+#### Other equipment / material requirements
+
+Mac, Linux, or Windows laptop (not a tablet, Chromebook, etc.) with administrative privileges. Please contact the instructor if you do not have a laptop and purchasing one would be a financial difficulty.
 
 **Other equipment / material requirements**:
 
-**Assignments**:  
-Present your research
+### Assignments and Grading Policy
 
-**Grades**:
+There will be five assignments during the course of the semester.  Each assignment will focus on the skill learned in class during the week and build on skills and concepts learned in previous weeks. These assignments will be initiated in class and are due at the end of the following week. 
 
-S/U
+For each assignment you will earn points. The more points you have earned, the more you have learned. Your grade will be based on the total number of points you accumulate during the semester. Assignments will be worth a total of 500 points. 
+
+Students in BIO539 will also do a project (worth 500 points) involving:  
+(1) Exploratory analysis of research data (submitted as an Rmarkdown or Jupyter notebook and including explanations)  
+(2) One of the following:
+  * A detailed written proposal on research plans including expected analyses.
+  * A ~1000 word paper on your research including relevant and significant results from the analysis.
+  * A poster including relevant and significant results from the analysis.  
+
+(3) A Github repository with a Readme so that the analysis can be replicated in full.
+
+
+```{r, warning=FALSE}
+Grade <- c("A","A-","B+","B","B-","C+","C","C-","D+","D","F")
+Numbers <- c("900-1000","880-899","860-879","800-859","780-799","760-779",
+             "700-759","680-699","660-679","600-659","")
+Numbers2 <- c("450-500","440-449","430-439","400-429","390-399","380-389",
+             "350-379","340-349","330-339","300-329","")
+
+grade_539 <- cbind(Grade, Numbers)
+grade_439 <- cbind(Grade, Numbers2)
+
+kable(grade_539, "html") %>%  
+  kable_styling(bootstrap_options = c("striped", "hover", "responsive"))
+kable(grade_439, "html") %>%  
+  kable_styling(bootstrap_options = c("striped", "hover", "responsive"))
+```
 
 **Special notes**:
 If you, or anyone you know, is at risk of going hungry please visit the Rhody Outpost, a food pantry operated by URI. Rhody Outpost is open twice per month at St. Augustine Church at 15 Lower College Rd. For open hours see https://web.uri.edu/deanofstudents/rhody-outpost/ . Rhody Outpost protects the privacy of all visitors. Students may also visit the Jonnycake Center in Peace Dale.

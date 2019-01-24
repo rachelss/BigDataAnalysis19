@@ -1,6 +1,6 @@
 ---
-title: "BES 600 URI Spring 2019"
-subtitle: "Graduate Seminar in Biology & Env Sci (EMB)"
+title: "BIO/DSP 439/539 URI Spring 2019"
+subtitle: "Big Data Analysis"
 author: "Instructor: Rachel Schwartz"
 output: 
   html_document:
@@ -9,19 +9,26 @@ output:
     toc_float: true
     theme: cosmo
 ---
-<a href="https://github.com/rachelss/BES600Spring19s"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+<a href="https://github.com/rachelss/BigDataAnalysis19"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
 
 ## Overview
 
-This seminar is intended to help you develop and practice your presentation skills.
+This course is intended to help you learn how to analyze large datasets correctly and efficiently. We will discuss methods for analysis of big data, and how to get research done more efficiently using basic scientific computing skills. This course will consist of limited lecture time and extensive hands-on time. We will cover data management, statistical methods, task automation, and how to make data analysis clear and reproducible. No prior programming experience is required. Although most of the data will be biological or environmental, the material learned will be fully translatable to other fields.
 
 ## Course Goals
-At the end of this course students enrolled in BES 600 should...
+At the end of this course students should be able to…
 
-* have developed and presented a talk / poster
+* understand methods to analyze large datasets reproducibly.
+* effectively manage and analyze data.
+* apply the tools learned in class to research.
 
 ## Student Learning Outcomes
-At the end of this course students enrolled in BES 600 should be able to...
+At the end of this course students should be able to…
 
-* understand some basic principles of data visualization and communication
-* use these skills to present their research
+* write a script to visualize a dataset.
+* select appropriate statistical methods to produce unbiased results for a dataset.
+* document code so that it is readable to someone else.
+* **produce a completely replicable analysis associated with a research project for a dataset of any size.**
+* **produce a research paper directly incorporating results of analyses from code.**
+
+*bold items refer to goals for students in BIO 539.
