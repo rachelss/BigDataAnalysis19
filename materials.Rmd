@@ -13,4 +13,4 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 **Day 1:**   
-Setup
+[Setup](https://rachelss.github.io/BigDataSetup/)
