@@ -78,18 +78,16 @@ Students in BIO539 will also do a project (worth 500 points) involving:
 
 ```{r, warning=FALSE}
 Grade <- c("A","A-","B+","B","B-","C+","C","C-","D+","D","F")
-Numbers <- c("900-1000","880-899","860-879","800-859","780-799","760-779",
+Points_539 <- c("900-1000","880-899","860-879","800-859","780-799","760-779",
              "700-759","680-699","660-679","600-659","")
-Numbers2 <- c("450-500","440-449","430-439","400-429","390-399","380-389",
+Points_439 <- c("450-500","440-449","430-439","400-429","390-399","380-389",
              "350-379","340-349","330-339","300-329","")
 
-grade_539 <- cbind(Grade, Numbers)
-grade_439 <- cbind(Grade, Numbers2)
+grade_539 <- cbind(Grade, Points_539,Points_439)
 
 kable(grade_539, "html") %>%  
-  kable_styling(bootstrap_options = c("striped", "hover", "responsive", full_width = F, position = "float_left"))
-kable(grade_439, "html") %>%  
-  kable_styling(bootstrap_options = c("striped", "hover", "responsive", full_width = F, position = "float_right"))
+  kable_styling(bootstrap_options = c("striped", "hover", "responsive", 
+                                      full_width = F))
 ```
 
 **Special notes**:
