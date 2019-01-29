@@ -13,4 +13,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 **Day 1:**   
-[Setup](https://rachelss.github.io/BigDataSetup/)
+[Setup](https://rachelss.github.io/BigDataSetup/)  
+[Reading 1](https://www.practicereproducibleresearch.org/core-chapters/1-intro.html)  
+[Reading 2](https://www.practicereproducibleresearch.org/core-chapters/0-preface.html)
+
+**Day 2:**  
+[Setup](http://swcarpentry.github.io/shell-novice/setup.html)
