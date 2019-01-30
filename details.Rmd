@@ -38,15 +38,15 @@ Please feel free to come by without an appointment during this time. To talk wit
 
 Data Science from Scratch. Joel Grus. 2015. O’Reilly Media. Free online via the URI library and Safari Books. Search the URI library for the title and follow the links.
 
+Bioinformatics Data Skills. Vince Buffalo. 2015. O’Reilly Media. Free online via the URI library and Safari Books. Search the URI library for the title and follow the links.
+
 [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython). Jake VanderPlas. 2016.
 
 [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook). Jake VanderPlas. 2017. O'Reilly Media. 
 
+[Data Science at the Command Line](https://www.datascienceatthecommandline.com). Jeroen Janssens. 2014. O'Reilly Media.  
+
 #### Useful supplementary reads
-
-Bioinformatics Data Skills. Vince Buffalo. 2015. O'Reilly Media.
-
-Data Science at the Command Line. Jeroen Janssens. 2014. O'Reilly Media. 
 
 Doing Data Science. Rachel Schutt and Cathy O'Neill. 2013. O'Reilly Media.
 
