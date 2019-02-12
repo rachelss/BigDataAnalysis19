@@ -23,11 +23,7 @@ knitr::opts_chunk$set(echo = TRUE)
 [Datacamp interactive shell lesson ch. 1 (for more practice)](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)  
 [Data Science at the Command Line ch. 1.0-1.5](https://www.datascienceatthecommandline.com/chapter-1-introduction.html)
 
-**Day 3:**    
-[Tutorial in writing (3-)](http://swcarpentry.github.io/shell-novice/)  
-[Datacamp interactive shell lesson ch. 2 (for more practice)](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)  
-
-**Day 3:**    
-[Tutorial in writing](http://swcarpentry.github.io/shell-novice/)  
-[Datacamp interactive shell lesson ch. 3 (for more practice)](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)  
+**Days 3-6:**    
+[Tutorial in writing (3-7)](http://swcarpentry.github.io/shell-novice/)  
+[Datacamp interactive shell lesson ch. 2-5 (for more practice)](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)  
 Read: Buffalo ch. 3 - access via the URI library website
