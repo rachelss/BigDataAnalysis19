@@ -27,3 +27,8 @@ knitr::opts_chunk$set(echo = TRUE)
 [Tutorial in writing (3-7)](http://swcarpentry.github.io/shell-novice/)  
 [Datacamp interactive shell lesson ch. 2-5 (for more practice)](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)  
 Read: Buffalo ch. 3 - access via the URI library website
+
+**Day 7**
+[Using the cluster: in class instructions](cluster_instructions.html)  
+[HPC Slides](slides.pdf)  
+[URI HPC website](https://web.uri.edu/hpc-research-computing/)
