@@ -3,7 +3,7 @@ title: "Class Materials"
 output: 
   html_document:
     toc: true
-    toc_depth: 2
+    toc_depth: 3
     toc_float: true
     theme: cosmo
 ---
@@ -12,7 +12,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**Day 1:**   
+### Day 1:
 [Setup](https://rachelss.github.io/BigDataSetup/)  
 [Reading 1](https://www.practicereproducibleresearch.org/core-chapters/1-intro.html)  
 [Reading 2](https://www.practicereproducibleresearch.org/core-chapters/0-preface.html)
@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = TRUE)
 [Datacamp interactive shell lesson ch. 2-5 (for more practice)](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)  
 Read: Buffalo ch. 3 - access via the URI library website
 
-**Day 7**
+**Day 7**  
 [Using the cluster: in class instructions](cluster_instructions.html)  
 [HPC Slides](slides.pdf)  
 [URI HPC website](https://web.uri.edu/hpc-research-computing/)
