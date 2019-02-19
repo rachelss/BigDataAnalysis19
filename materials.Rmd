@@ -33,7 +33,8 @@ Read: Janssens ch. 4.0-4.2
 [Using the cluster: in class instructions](cluster_instructions.html)  
 [HPC Slides](hpcslides.pdf)  
 [URI HPC website](https://web.uri.edu/hpc-research-computing/)  
-[Software carpentry HPC tutorial](https://hpc-carpentry.github.io/hpc-intro/)
+[Software carpentry HPC tutorial](https://hpc-carpentry.github.io/hpc-intro/)  
+[Slurm cheatsheet](https://isugenomics.github.io/bioinformatics-workbook/Appendix/HPC/SLURM/slurm-cheatsheat.html)
 
 ### Day 8
 [Cloud computing]  
