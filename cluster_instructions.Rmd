@@ -94,3 +94,5 @@ You are already familiar with the shebang line. All lines starting with `#SBATCH
 If you submit a job that you need to cancel first run `squeue` to get the job id then run `scancel <jobid>`
 
 Note: If you have any large or important data you are working you should not store it in your home directory. Additional storage is connected to the cluster and access can be arranged by the HPC manager.
+
+Now check how the cluster is doing with ```htop```
