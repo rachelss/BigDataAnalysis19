@@ -37,5 +37,5 @@ Read: Janssens ch. 4.0-4.2
 [Slurm cheatsheet](https://isugenomics.github.io/bioinformatics-workbook/Appendix/HPC/SLURM/slurm-cheatsheat.html)
 
 ### Day 8
-[Cloud computing]  
+[Cloud computing](cloud_instructions.html)  
 Read: Buffalo ch. 4

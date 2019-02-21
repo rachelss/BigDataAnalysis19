@@ -1,0 +1,39 @@
+---
+title: "Using Google Cloud"
+output: 
+  html_document:
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Set up a Virtual Machine in the Cloud
+
+Google provides a [quickstart guide](https://cloud.google.com/compute/docs/quickstart-linux) to setting up a virtual machine. 
+
+* Select Ubuntu 18.04 LTS as your OS.
+* Connect via a browser window.
+
+## Using Your Virtual Machine
+
+* Continue with the [Data Carpentry Tutorial](https://datacarpentry.org/cloud-genomics/03-verifying-instance/index.html)
+* Because tmux is already installed, try installing R on your virtual machine. First, if you try to run `R` you will get an error that it isn't installed, and you will be provided with installation instructions. When you try `apt install r-base-core` you should receive an error that you don't have root privileges. To install with privileges use `sudo apt install r-base-core`.
+
+## Backup your Virtual Machine
+
+* Click Snapshots on your cloud site and Create Snapshot
+
+## Set up Multiple Similar Servers 
+
+* Click Images and Create Image
+* Select source: snapshot
+* Select your snapshot
+* Click Create
+* Under the main Images window select your Image and Create Instance
+* Open a command line browser for this Instance
+* Type `R` and you'll see that it is also installed on this server
+
+## Delete Your Virtual Machine (and other work)
+Use Google's [quickstart guide](https://cloud.google.com/compute/docs/quickstart-linux) deletion instructions. If you don't delete your machine you will be charged hourly for it. 
