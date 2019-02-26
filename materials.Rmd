@@ -36,6 +36,9 @@ Read: Janssens ch. 4.0-4.2
 [Software carpentry HPC tutorial](https://hpc-carpentry.github.io/hpc-intro/)  
 [Slurm cheatsheet](https://isugenomics.github.io/bioinformatics-workbook/Appendix/HPC/SLURM/slurm-cheatsheat.html)
 
-### Day 8
+### Day 8 2/21
 [Cloud computing](cloud_instructions.html)  
 Read: Buffalo ch. 4
+
+### Day 9 2/26
+[Version control with Git](http://swcarpentry.github.io/git-novice/)
