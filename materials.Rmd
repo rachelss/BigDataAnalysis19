@@ -40,5 +40,6 @@ Read: Janssens ch. 4.0-4.2
 [Cloud computing](cloud_instructions.html)  
 Read: Buffalo ch. 4
 
-### Day 9 2/26
-[Version control with Git](http://swcarpentry.github.io/git-novice/)
+### Day 9-10 2/26-2/28
+[Version control with Git](http://swcarpentry.github.io/git-novice/)  
+Read: Buffalo ch. 5 
