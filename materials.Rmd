@@ -51,10 +51,14 @@ Read: Modern Dive ch. 2
 
 ### Day 12 3/7
 [R Data Viz](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html)  
-Read: Modern Dive ch. 3
+Read: Modern Dive ch. 3  
+539: Read: R 4 Data Science ch. 3
 
 ### Day 13 3/19
 [Data Wrangling in R](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html)  
-Read: Modern Dive ch. 4-5
+Read: Modern Dive ch. 4  
+539: Read: R 4 Data Science ch. 5
 
-### Day 14 3/21
+### Day 14 3/21  
+[Tidy data](https://datacarpentry.org/spreadsheet-ecology-lesson/)  
+Read: Modern Dive ch. 5; R 4 Data Science ch. 12
