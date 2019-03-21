@@ -61,4 +61,5 @@ Read: Modern Dive ch. 4
 
 ### Day 14 3/21  
 [Tidy data](https://datacarpentry.org/spreadsheet-ecology-lesson/)  
+[Data to tidy](https://ndownloader.figshare.com/files/2252083)  
 Read: Modern Dive ch. 5; R 4 Data Science ch. 12
