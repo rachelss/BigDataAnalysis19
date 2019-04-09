@@ -82,6 +82,7 @@ Read: R 4 Data Science ch. 21, 19
 ### Day 18-19 4/4-4/9
 [Data](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/1d1e264f416e27b22a0b8c970d52f3e3/asset-v1:HarvardX+PH526x+3T2016+type@asset+block/Books_EngFr.zip)  
 [Notes](text_analysis.html)  
+[Rabbit exercise](https://mybinder.org/v2/gh/rachelss/BigDataAnalysis19/master?filepath=rabbit_exercise.ipynb)
 Read: A Whirlwind Tour of Python through Control Flow
 
 ### Day 20 4/11
