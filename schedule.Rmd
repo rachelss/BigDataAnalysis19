@@ -23,7 +23,7 @@ Topic <- c("Setup", "Shell","Shell","Shell","Shell",
            "Snow Day", "Shell","HPC","Git", "Git", "Git", 
            "Intro R","Data Viz in R","Tidy Data","Tidy Data","R plots",
            "R Markdown", "Databases", "Data in python", "Python", "Python", 
-           "Python", "Functions", "Functions","Classes","Scripting")
+           "Python", "Functions", "Functions","Testing","Scripting")
 
 meetings <- cbind(Day, Date, Topic)
 

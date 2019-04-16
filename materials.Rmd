@@ -79,12 +79,23 @@ Read: R 4 Data Science ch. 13, 27
 [Memory issues in R](https://privefl.github.io/advr38book/performance.html#rs-memory-management)  
 Read: R 4 Data Science ch. 21, 19  
 
-### Day 18-19 4/4-4/9
+### Day 18-19 4/4-4/9  
 [Data](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/1d1e264f416e27b22a0b8c970d52f3e3/asset-v1:HarvardX+PH526x+3T2016+type@asset+block/Books_EngFr.zip)  
 [Notes](text_analysis.html)  
 [Rabbit exercise online](https://mybinder.org/v2/gh/rachelss/BigDataAnalysis19/master?filepath=rabbit_exercise.ipynb)  
 [Rabbit exercise to download](rabbit_exercise.ipynb)  
-Read: A Whirlwind Tour of Python through Control Flow
+Read: A Whirlwind Tour of Python through Control Flow  
 
-### Day 20 4/11
-Read: A Whirlwind Tour of Python (finish)
+### Day 20 4/11  
+Read: A Whirlwind Tour of Python (finish); Python Data Science Handbook ch. 1
+
+### Day 21 4/16  
+[Complete rabbit exercise](rabbits_inclass.html)  
+[Count words notebook](text_inclass.html)    
+[Count words script](count_words_in_books_class.py)  
+[Pandas lesson](https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/index.html)  
+[Pandas lesson 2](https://datacarpentry.org/python-ecology-lesson/05-merging-data/index.html)  
+Read: Python Data Science Handbook ch. 3  
+FYI how to install Plotnine: conda install -c conda-forge plotnine
+
+### Day 22 4/18
