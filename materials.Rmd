@@ -99,3 +99,5 @@ Read: Python Data Science Handbook ch. 3
 FYI how to install Plotnine: conda install -c conda-forge plotnine
 
 ### Day 22 4/18
+[Python testing tutorial](http://katyhuff.github.io/python-testing/)  
+Read: Effective computation in physics ch. 18

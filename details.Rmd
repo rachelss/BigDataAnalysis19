@@ -40,11 +40,13 @@ Data Science from Scratch. Joel Grus. 2015. O’Reilly Media. Free online via th
 
 Bioinformatics Data Skills. Vince Buffalo. 2015. O’Reilly Media. Free online via the URI library and Safari Books. Search the URI library for the title and follow the links.
 
-[A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython). Jake VanderPlas. 2016.
+[A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython). Jake VanderPlas. 2016. Free online via the URI library and Safari Books. Search the URI library for the title and follow the links.  
 
-[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook). Jake VanderPlas. 2017. O'Reilly Media. 
+[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook). Jake VanderPlas. 2017. O'Reilly Media. Free online via the URI library and Safari Books. Search the URI library for the title and follow the links.  
 
-[Data Science at the Command Line](https://www.datascienceatthecommandline.com). Jeroen Janssens. 2014. O'Reilly Media.  
+[Data Science at the Command Line](https://www.datascienceatthecommandline.com). Jeroen Janssens. 2014. O'Reilly Media. Free online via the URI library and Safari Books. Search the URI library for the title and follow the links.  
+
+Effective Computation in Physics. Kathryn Huff. 2015. Free online via the URI library and Safari Books. Search the URI library for the title and follow the links.
 
 #### Useful supplementary reads
 
